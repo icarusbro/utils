@@ -1,9 +1,15 @@
-# npm Commands
+# UTILS COMMANDS
 
-autor: ícaro Costa
+autor: Ícaro Costa
 
-## 1\. LOCKS DOWN THE VERSION OF A PACKAGE'S DEPENDENCIES
+## 1\. ACCESS MYSQL
 
 ```
-npm shrinkwrap
+mysql -u root -p
+```
+
+## 2.CREATE DATABASE
+
+```
+CREATE DATABASE tutorial_database;
 ```
